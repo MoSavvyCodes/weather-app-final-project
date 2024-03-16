@@ -1,0 +1,131 @@
+h1 {
+  position: relative;
+  top: 100px;
+  right: 30px;
+  font-size: 68px;
+  margin-top: 20px;
+  margin-bottom: 120px;
+  margin-right: 80px;
+  text-align: left;
+  color: #fff;
+  font-family: "Poppins";
+}
+.rainy-day {
+  position: relative;
+  top: 100px;
+  right: 50px;
+  font-size: 150px;
+  color: #565454;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  padding: 0 auto;
+  margin-left: 7px;
+}
+.push {
+  font-size: 20px;
+  position: relative;
+  top: 200px;
+  right: 15px;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  margin-left: 30px;
+  padding: 10px auto;
+  color: #5a6275;
+  font-family: "Poppins";
+}
+.temp {
+  font-size: 20px;
+  color: #5a6275;
+  top: 20px;
+  position: relative;
+  bottom: 10px;
+}
+
+.cities-one {
+  position: relative;
+  left: 510px;
+  right: 50px;
+  bottom: 310px;
+  font-family: "Poppins";
+  color: #5a6275;
+}
+.search-box {
+  position: relative;
+  left: 510px;
+  bottom: 725px;
+  margin: 0 auto;
+}
+
+.section-one {
+  position: relative;
+  left: 200px;
+  bottom: 200px;
+  color: #5a6275;
+}
+.section-two {
+  position: relative;
+  left: 200px;
+  bottom: 150px;
+  color: #5a6275;
+}
+.section-three {
+  position: relative;
+  left: 500px;
+  bottom: 300px;
+  color: #5a6275;
+}
+
+.section-four {
+  position: relative;
+  left: 500px;
+  bottom: 250px;
+  color: #5a6275;
+}
+.sunday {
+  font-family: "Poppins";
+  font-size: 48px;
+  position: relative;
+  left: 700px;
+  bottom: 400px;
+  color: #5a6275;
+}
+.today-temp {
+  font-family: "Poppins";
+  font-size: 55px;
+  position: relative;
+  left: 750px;
+  bottom: 430px;
+  color: #5a6275;
+}
+.weekday {
+  position: relative;
+  left: 270px;
+  bottom: 199px;
+  color: #5a6275;
+  font-size: 20px;
+}
+.cloud-mon {
+  font-size: 40px;
+  color: #4f8fcc;
+}
+.cloud-tues {
+  font-size: 40px;
+  color: #94a4b7;
+}
+
+.rain-wed {
+  font-size: 40px;
+  color: #565454;
+}
+.wind-thurs {
+  font-size: 40px;
+  color: #3e526b;
+}
+.sun-fri {
+  font-size: 40px;
+  color: #f3f48d;
+}
+.row-temp {
+  position: static;
+  padding: 0;
+}
